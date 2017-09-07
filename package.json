@@ -1,8 +1,8 @@
 {
   "name": "a1x_component_based",
   "private": true,
-  "version": "0.0.0",
-  "description": "AngularJS version1.5 componenent based approach",
+  "version": "1.0.0",
+  "description": "AngularJS version1.5 - A componenent based approach",
   "repository": "https://github.com/fortunee/a1x_component_based",
   "license": "MIT",
   "author": "Fortune Ekeruo",

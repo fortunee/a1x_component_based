@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "name": "a1x_component_based",
+  "description": "AngularJS version1.5 - A componenent based approach",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fortunee/a1x_component_based",
   "license": "MIT",
-  "private": true,
+  "author": "Fortune Ekeruo",
   "dependencies": {
     "angular": "~1.5.0",
     "angular-route": "~1.5.0",
